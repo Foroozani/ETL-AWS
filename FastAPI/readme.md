@@ -1,1 +1,11 @@
+## **Introduction**
 
+
+FastAPI is a modern Python web framework which with a number of advantages, including:
+
+It is one of the fastest (high-performance) web frameworks available.
+It takes advantage of type annotation support of Python 3.6+ for better data validation and editor support.
+It utilizes Python's Async power, which is useful for building asynchronous APIs.
+It generates standards based on open standards such as OpenAPI and JSON Schema.
+It is robust and easy to use and learn.
+So in this guide, you will be exploring one of the newest and finest Python web framework libraries.
