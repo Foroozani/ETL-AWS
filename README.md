@@ -14,5 +14,6 @@ Some good websites:
 
 **Redshift** 
 
-[Amazon Redshift](https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)
+[Amazon Redshift Doc](https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)
+
 [Amazon Redshift Tutorial ](https://www.youtube.com/watch?v=fc5WPKnbam8)
