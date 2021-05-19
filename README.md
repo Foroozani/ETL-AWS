@@ -1,5 +1,5 @@
 # ETL-AWS
-My collection during this journy:
+My end-to-end note collection during this project to be completed
 
 Some good websites:
 
