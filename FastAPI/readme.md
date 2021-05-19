@@ -9,3 +9,28 @@
 * It generates standards based on open standards such as OpenAPI and JSON Schema.
 * It is robust and easy to use and learn.
 * So in this guide, you will be exploring one of the newest and finest Python web framework libraries.
+
+
+There are just three basic steps to install, create, and run FastAPI.
+
+**Installation**
+
+```bash 
+pip install fastapi
+pip install uvicorn
+```
+
+**Create your App**
+
+To see what the simplest FastAPI app could look like, create a new Python file called `main.py`
+
+```bash 
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+def read_root():
+    return {"hello": "world"}
+```
+
