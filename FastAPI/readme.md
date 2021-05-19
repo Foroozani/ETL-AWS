@@ -34,3 +34,34 @@ def read_root():
     return {"hello": "world"}
 ```
 
+**Run your App**
+To run the app, just execute like this :
+
+```bash 
+uvicorn main:app --reload
+```
+
+After running the above command, the server starts as follows:
+
+```bash 
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL
++C to quit)
+INFO:     Started reloader process [4136] using
+statreload
+INFO:     Started server process [12988]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+```
+
+**Diving Deeper**
+*Path Parameters*
+You can declare parameters to the API call as variables as a function parameter. Here , I have used course_id as the parameter. Note that the type of the parameter is int.
+
+```bash 
+@app.get("/course/{course_id}")
+def my_course(course_id: int):
+    return {"course_id": course_id}
+    ```
+    
+
+
