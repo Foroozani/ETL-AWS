@@ -8,3 +8,7 @@ Some good websites:
 3. [Boto3-documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 
 [Glue](https://aws.amazon.com/blogs/big-data/extracting-salesforce-com-data-using-aws-glue-and-analyzing-with-amazon-athena/)
+
+**Redshift** 
+[Amazon Redshift](https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)
+[Amazon Redshift Tutorial ](https://www.youtube.com/watch?v=fc5WPKnbam8)
