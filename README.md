@@ -7,6 +7,7 @@ Some good websites:
 2. [Boto3-AWS](https://aws.amazon.com/sdk-for-python/)
 3. [Boto3-documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 4. [Cloud Development Kit](https://www.youtube.com/watch?v=V-GDvvW3p3o&list=PLa7s-p3_y_6Oi0J5TUaHEv2a67ZcLxRQW)
+5. [CDK](https://aws.amazon.com/cdk/)(https://github.com/aws/aws-cdk)
 
 
 [Glue](https://aws.amazon.com/blogs/big-data/extracting-salesforce-com-data-using-aws-glue-and-analyzing-with-amazon-athena/)
