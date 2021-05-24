@@ -1,0 +1,16 @@
+# Initialize the downloaded flasky3 
+# repo as a git repository:
+git init
+
+# Configure your CodeCommit repository
+# as the place to push your code to:
+git remote add origin <URL>
+
+# Add all the files as tracked
+git add .
+
+# Commit all the files to the repo
+git commit -m "first commit"
+
+# Push code to the CodeCommit repo:
+git push origin master
