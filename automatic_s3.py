@@ -1,6 +1,7 @@
 import boto3
 from secret_key import access_key_DG, secret_access_key_DG
 import os
+from pprint import pprint
 
 ## create bucket
 
@@ -18,3 +19,12 @@ response = bucket.create(
 )
 
 print(response)
+
+## list the bucket names
+resource = boto3.resource("s3")
+print(resource)
+pprint(list(resource.buckets.all()))    # resource has many attributes, one is called main
+
+# or loop through it
+for bucket in resource.buckets.all():
+    print(bucket.name)
