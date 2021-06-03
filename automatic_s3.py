@@ -28,3 +28,14 @@ pprint(list(resource.buckets.all()))    # resource has many attributes, one is c
 # or loop through it
 for bucket in resource.buckets.all():
     print(bucket.name)
+
+##
+# how to get creation bucket using boto3
+s3_client = boto3.client('s3')
+response = s3_client.list_buckets()["Buckets"] # create a list of buckets name
+pprint(response)
+
+# print the creation date of forth element
+for bucket in response:
+    print(bucket["Name"])
+    print(bucket['CreationDate'])
