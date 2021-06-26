@@ -14,6 +14,7 @@ To extract metadata of your data one can use AWS GLUE. If you have proprietry fo
 
 
 ### Refrences 
+--------------------------------------
 1. [Query the Log Data in Amazon S3](https://docs.aws.amazon.com/kinesis-agent-windows/latest/userguide/kaw-ds2s3-tutorial-step3.html)
 2. [Work with partitioned data in AWS Glue](https://aws.amazon.com/blogs/big-data/work-with-partitioned-data-in-aws-glue/)
 3. [Extended Log File Format](https://www.w3.org/TR/WD-logfile.html)
