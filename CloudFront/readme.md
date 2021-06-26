@@ -19,4 +19,7 @@ To extract metadata of your data one can use AWS GLUE. If you have proprietry fo
 3. [Extended Log File Format](https://www.w3.org/TR/WD-logfile.html)
 
 
+### Athena 
+[Top 10 Performance Tuning Tips for Amazon Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/)
+
 
