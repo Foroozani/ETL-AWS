@@ -21,6 +21,7 @@ To extract metadata of your data one can use AWS GLUE. If you have proprietry fo
 
 
 ### Athena 
-[Top 10 Performance Tuning Tips for Amazon Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/)
+1. [Top 10 Performance Tuning Tips for Amazon Athena](https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/)
+2. [Using CTAS and INSERT INTO for ETL and Data Analysis](https://docs.aws.amazon.com/athena/latest/ug/ctas-insert-into-etl.html)
 
 
