@@ -2,7 +2,7 @@
 
 [Blog](https://aws.amazon.com/blogs/big-data/analyze-your-amazon-cloudfront-access-logs-at-scale/)
 
-*CloudFront logs*, export web distribution access log. By analysing cloudfront logs:
+*CloudFront logs*: export web distribution access log. By analysing cloudfront logs:
 
 1. Reduce website latency: By knowing what are the popular objects/web pages that your customers are visiting you can get that from the logs and then base on that you can make sure that those content ate cacged closer to them. In that way they can access them much faster rather than having to experience the latency of going all the way towards your data center.
 
