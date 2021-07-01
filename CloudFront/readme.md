@@ -20,6 +20,7 @@ To extract metadata of your data one can use AWS GLUE. If you have proprietry fo
 3. [Extended Log File Format](https://www.w3.org/TR/WD-logfile.html)
 4. [Managing Partitions for ETL Output in AWS Glue](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-etl-partitions.html)
 5. [Building Serverless ETL Pipelines with AWS Glue](https://www.youtube.com/watch?v=PHYWI4Y9mzs)
+6. [Three AWS Glue ETL job types for converting data to Apache Parquet](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/three-aws-glue-etl-job-types-for-converting-data-to-apache-parquet.html)
 
 
 ### Athena 
