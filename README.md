@@ -1,5 +1,7 @@
 # ETL-AWS
-My end-to-end note collection during this project to be completed
+My end-to-end note collection during this project to be completed ....
+
+![CDK-image](https://github.com/Foroozani/ETL-AWS/blob/main/images/etl.png)
 
 Some good websites:
 
