@@ -16,6 +16,7 @@ Some good websites:
 
 [Glue](https://aws.amazon.com/blogs/big-data/extracting-salesforce-com-data-using-aws-glue-and-analyzing-with-amazon-athena/)
 
+[Best Practices When Using Athena with AWS Glue](https://docs.aws.amazon.com/athena/latest/ug/glue-best-practices.html#schema-csv-quotes)
 
 
 **Redshift** 
