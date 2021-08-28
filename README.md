@@ -3,7 +3,7 @@ My end-to-end note collection during this project to be completed ....
 
 ![CDK-image](https://github.com/Foroozani/ETL-AWS/blob/main/images/ETL-solution1.png)
 
-more details on this solution is:
+under the hood:
 
 ![CDK-image](https://github.com/Foroozani/ETL-AWS/blob/main/images/ETL-solution2.png)
 
