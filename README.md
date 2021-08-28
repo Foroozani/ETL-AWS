@@ -3,6 +3,10 @@ My end-to-end note collection during this project to be completed ....
 
 ![CDK-image](https://github.com/Foroozani/ETL-AWS/blob/main/images/ETL-solution1.png)
 
+more details on this solution is:
+
+![CDK-image](https://github.com/Foroozani/ETL-AWS/blob/main/images/ETL-solution2.png)
+
 Some good websites:
 
 1. [Boto3-youtube](https://www.youtube.com/watch?v=6Jk1FVgSnXA&list=PLL2hlSFBmWwx7AFCvrurMhUOJc7kc0ynP&index=1)
