@@ -5,9 +5,9 @@
 
 import boto3
 
-aws_man_colsole = boto3.session.Session(profile_name="DG-dwh")
-iam_console = aws_man_colsole.resource("iam")
+session = boto3.session.Session(profile_name="DG-dwh")
+service = aws_man_colsole.resource("iam")
 
-for  user in iam_console.users.all():
+for  user in service.users.all():
     print(user.name)
 
