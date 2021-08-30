@@ -13,3 +13,6 @@ response=ec2_con_cli.describe_volumes()['Volumes']
 for each_item in response:
 	print("=======================")
 	print("The volume id is: {}\nThe AvailabilityZone is: {}\nThe VolumeType is: {}".format(each_item['VolumeId'],each_item['AvailabilityZone'],each_item['VolumeType']))
+
+	
+	
