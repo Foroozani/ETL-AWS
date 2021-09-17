@@ -24,3 +24,10 @@ Some good websites:
 [Amazon Redshift Doc](https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html)
 
 [Amazon Redshift Tutorial ](https://www.youtube.com/watch?v=fc5WPKnbam8)
+
+
+**Athena**
+
+Serverless CloudFront Log Querying with Athena and Table Partition
+
+[Serverless CloudFront Log Querying with Athena and Table Partition](https://medium.com/vingle-tech-blog/serverless-cloudfront-log-querying-with-athena-and-table-partition-c18b6e6f9eb4)
