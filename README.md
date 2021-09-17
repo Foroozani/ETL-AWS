@@ -29,3 +29,5 @@ Some good websites:
 **Athena**
 
 [Serverless CloudFront Log Querying with Athena and Table Partition](https://medium.com/vingle-tech-blog/serverless-cloudfront-log-querying-with-athena-and-table-partition-c18b6e6f9eb4)
+
+[Fast Cloudfront log queries using AWS Athena and Serverless](https://medium.com/compass-true-north/fast-cloudfront-log-queries-using-aws-athena-and-serverless-ef117393c5a6)
