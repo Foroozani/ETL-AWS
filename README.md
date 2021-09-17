@@ -28,6 +28,4 @@ Some good websites:
 
 **Athena**
 
-Serverless CloudFront Log Querying with Athena and Table Partition
-
 [Serverless CloudFront Log Querying with Athena and Table Partition](https://medium.com/vingle-tech-blog/serverless-cloudfront-log-querying-with-athena-and-table-partition-c18b6e6f9eb4)
