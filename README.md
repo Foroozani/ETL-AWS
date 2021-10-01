@@ -39,3 +39,6 @@ Some good websites:
 [How can I initiate restores for a large volume of Amazon S3 objects that are currently in the S3 [Glacier](https://docs.aws.amazon.com/cli/latest/reference/glacier/index.html) storage class?](https://aws.amazon.com/premiumsupport/knowledge-center/s3-batch-operation-initiate-restore/)
 
 https://medium.com/analytics-vidhya/restoring-millions-of-objects-and-terabytes-of-data-from-s3-glacier-using-s3-inventory-and-s3-e966091e594d
+
+
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops-iam-role-policies.html#batch-ops-iam-role-policies-trust
