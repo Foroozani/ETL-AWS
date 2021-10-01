@@ -31,3 +31,9 @@ Some good websites:
 [Serverless CloudFront Log Querying with Athena and Table Partition](https://medium.com/vingle-tech-blog/serverless-cloudfront-log-querying-with-athena-and-table-partition-c18b6e6f9eb4)
 
 [Fast Cloudfront log queries using AWS Athena and Serverless](https://medium.com/compass-true-north/fast-cloudfront-log-queries-using-aws-athena-and-serverless-ef117393c5a6)
+
+
+
+**Glacier**
+
+[How can I initiate restores for a large volume of Amazon S3 objects that are currently in the S3 [Glacier](https://docs.aws.amazon.com/cli/latest/reference/glacier/index.html) storage class?](https://aws.amazon.com/premiumsupport/knowledge-center/s3-batch-operation-initiate-restore/)
