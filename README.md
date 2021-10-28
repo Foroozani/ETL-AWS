@@ -2,7 +2,7 @@
 My end-to-end note collection during this project to be completed ....
 
 <p align="center">
-  <img width="100" height="500" src="https://github.com/Foroozani/ETL-AWS/blob/main/images/ETL-solution2.png">
+  <img width="500" height="500" src="https://github.com/Foroozani/ETL-AWS/blob/main/images/ETL-solution2.png">
 </p>
 
 Some good websites:
