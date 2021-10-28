@@ -1,7 +1,7 @@
 # ETL-AWS
 My end-to-end note collection during this project to be completed ....
 
-
+![K-Means](https://github.com/Foroozani/Machine-Learning1/blob/master/03-kmeans.png)
 
 Some good websites:
 
